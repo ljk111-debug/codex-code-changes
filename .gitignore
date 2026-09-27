@@ -1,0 +1,20 @@
+# Python cache and tooling output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build and temporary output
+*.log
+dist/
+build/
+tmp/
+temp/
+
